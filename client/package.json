@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "client dev": "vite",
+    "client build": "vite build",
+    "client lint": "eslint .",
+    "client preview": "vite preview"
   },
   "dependencies": {
     "chess.js": "^1.2.0",
